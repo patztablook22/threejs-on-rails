@@ -1,0 +1,21 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+
+main {
+  font-family: monospace;
+  font-size: 120%;
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  color: lime;
+  border: 1px solid lime;
+  padding: 4rem;
+}
